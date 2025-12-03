@@ -12,7 +12,7 @@
 
 Of course we need a pictorial view to simplify this for all the visual learners out there. Imagine you start with the best idea of your life at the star. The line emerging from it, is the applications life line reaching into infinity and forever living as the application that set the ‘branch’ standard.
 
-<img src="flow.jpg" width="400">
+<img src="flow.jpg" width="600">
 
 ###### Playful illustration of github flow.
 
